@@ -1,0 +1,2 @@
+D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\Definitions.Isometry.h
+D:\Unreal\Isometry\Source\Isometry\Isometry.h

@@ -1,0 +1,7 @@
+D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\Definitions.Isometry.h
+D:\Unreal\Isometry\Source\Isometry\BasePawn.h
+D:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Inc\Isometry\BasePawn.generated.h

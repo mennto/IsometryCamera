@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Isometry-7623.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Isometry\Intermediate\Build\Win64\IsometryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\BasePawn.cpp.obj"
+"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\Isometry.cpp.obj"
+"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\BasePawn.gen.cpp.obj"
+"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\Isometry.init.gen.cpp.obj"
+"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\Default.rc2.res"
+/OUT:"D:\Unreal\Isometry\Intermediate\Build\Win64\UE4Editor\Development\Isometry\UE4Editor-Isometry-7623.lib"

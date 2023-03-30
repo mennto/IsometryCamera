@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Isometry",
+			"Path": "D:\\Unreal\\Isometry\\Source\\Isometry.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IsometryEditor",
+			"Path": "D:\\Unreal\\Isometry\\Source\\IsometryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

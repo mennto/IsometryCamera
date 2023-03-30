@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\Isometry\\Source\\Isometry\\Isometry.Build.cs",
+		"D:\\Unreal\\Isometry\\Source\\Isometry.Target.cs",
+		"D:\\Unreal\\Isometry\\Source\\IsometryEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

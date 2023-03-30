@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Isometry.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5FED72BD-CDE8-4BE8-859F-11826520B45B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Isometry.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IsometryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B6A97FCF-DC0E-40B6-A5E2-EDD5A6145DA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Isometry">
+      <UniqueIdentifier>{293954C7-35D2-4BB6-BDE7-C88EC33FC806}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Isometry\BasePawn.cpp">
+      <Filter>Source\Isometry</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Isometry\BasePawn.h">
+      <Filter>Source\Isometry</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Isometry\Isometry.Build.cs">
+      <Filter>Source\Isometry</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Isometry\Isometry.cpp">
+      <Filter>Source\Isometry</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Isometry\Isometry.h">
+      <Filter>Source\Isometry</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
